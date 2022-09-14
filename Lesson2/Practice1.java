@@ -1,10 +1,11 @@
 // 文字と数値を出力する
-class Sample3
+
+class Practice1
 {
   public static void main(String[] args)
   {
-    System.out.println('A');
-    System.out.println("ようこそJavaへ!");
     System.out.println(123);
+    System.out.println("￥100もらった");
+    System.out.println("またあした");
   }
 }

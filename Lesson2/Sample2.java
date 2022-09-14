@@ -1,5 +1,5 @@
 // printを使う
-class Sample1
+class Sample2
 {
   public static void main(String[] args)
   {
